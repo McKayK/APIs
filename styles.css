@@ -1,0 +1,16 @@
+button:hover {
+    cursor: pointer;
+    color: black;
+    background-color: white;
+}
+
+button {
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 100px;
+}
+
+h2 {
+    color: rgb(23, 130, 252);
+}
